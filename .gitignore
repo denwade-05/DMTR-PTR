@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.so
+
+# Envs / IDE
+.venv/
+venv/
+.env
+.env.*
+.idea/
+.vscode/
+*.swp
+
+# Checkpoints & logs
+ckpt/
+*.pth
+*.pth.tar
+*.pt
+*.ckpt
+*.onnx
+src/policynet/logdir/
+**/events.out.tfevents.*
+*.log
+
+# Outputs / caches
+outputs/
+results/out/
+results_metrics/
+*_metrics.json
+.cache/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+torch>=1.12
+numpy
+tqdm
+einops
+scikit-image
+lpips
+tensorboard

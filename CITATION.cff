@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "DMTR-PTR"
+type: software
+authors:
+  - family-names: "TODO"
+    given-names: "TODO"
+license: Apache-2.0
+version: "0.1.0"
+# doi: "TODO"
+# url: "TODO"
+# preferred-citation:
+#   type: conference-paper
+#   title: "TODO"
+#   authors:
+#     - family-names: "TODO"
+#       given-names: "TODO"
+#   year: TODO
+#   conference: "TODO"

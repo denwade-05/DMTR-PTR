@@ -1,0 +1,11 @@
+DMTR-PTR
+Copyright 2025 The DMTR-PTR Authors
+
+Licensed under the Apache License, Version 2.0.
+
+This repository includes PolicyNet code adapted from:
+
+  Content-aware Token Sharing for Efficient Semantic Segmentation
+  with Vision Transformers (CTS), CVPR 2023
+
+  See src/policynet/LICENSE (Apache License 2.0).
