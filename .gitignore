@@ -16,7 +16,7 @@ venv/
 .vscode/
 *.swp
 
-# Checkpoints & logs
+# Checkpoints, logs, metrics
 ckpt/
 *.pth
 *.pth.tar
@@ -26,12 +26,12 @@ ckpt/
 src/policynet/logdir/
 **/events.out.tfevents.*
 *.log
+results_metrics/
+*_metrics.json
 
 # Outputs / caches
 outputs/
 results/out/
-results_metrics/
-*_metrics.json
 .cache/
 .pytest_cache/
 .ipynb_checkpoints/

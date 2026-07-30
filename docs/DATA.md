@@ -1,12 +1,7 @@
 # Data
 
-This release ships a **synthetic random dataloader** only:
+Raw data: see [SRViT](https://github.com/stockeh/srvit).
 
-| Tensor | Shape |
-|--------|--------|
-| Input `x` | `(4, 192, 384)` |
-| Target `t` | `(1, 192, 384)` |
+This work uses spatially downsampled inputs. Training resolution: **192×384**.
 
-Values are uniform in `[0, 1]`. See `src/dataloader_down4.py`.
-
-Real satellite / radar data is **not** redistributed here. Refer to the related **SRViT** paper / code release once it is public (**link TBD**).
+This repository currently provides a synthetic random dataloader (`src/dataloader_down4.py`) for a runnable smoke test. Real-data loading will be added later.
