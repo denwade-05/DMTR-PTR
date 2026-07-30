@@ -7,5 +7,6 @@ This repository includes PolicyNet code adapted from:
 
   Content-aware Token Sharing for Efficient Semantic Segmentation
   with Vision Transformers (CTS), CVPR 2023
+  https://github.com/tue-mps/cts-segmenter
 
   See src/policynet/LICENSE (Apache License 2.0).

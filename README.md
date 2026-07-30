@@ -23,7 +23,7 @@ This codebase builds on:
 
 - Training / ViT framework from [stockeh/srvit](https://github.com/stockeh/srvit)
 - Mixed-resolution tokenization ideas from [TomerRonen34/mixed-resolution-vit](https://github.com/TomerRonen34/mixed-resolution-vit)
-- PolicyNet from CTS (CVPR 2023; see `src/policynet/`)
+- PolicyNet from [CTS](https://github.com/tue-mps/cts-segmenter) (CVPR 2023)
 
 ## Citation
 
